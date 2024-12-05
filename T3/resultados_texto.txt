@@ -1,0 +1,1040 @@
+﻿Tempo de execução do Airbag: 2378 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2017 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1932 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2701 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1389 us
+Tempo de execução do Airbag: 757 us
+Tempo Médio de Execução do ABS: 1868 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2143 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1457 us
+Tempo de execução do Airbag: 1725 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1087 us
+Tempo de execução do ABS: 1139 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1230 us
+Tempo de execução do Airbag: 1412 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2319 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1446 us
+Tempo de execução do ABS: 972 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2541 us
+Tempo Médio de Execução do ABS: 1845 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2099 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2980 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2245 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2231 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2134 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2139 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2163 us
+Tempo Médio de Execução do ABS: 1883 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2099 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1655 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 2157 us
+Tempo de execução do Airbag: 1891 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2392 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2722 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2184 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3790 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2714 us
+Tempo Médio de Execução do ABS: 1884 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2142 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2352 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3256 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1193 us
+Tempo de execução do ABS: 852 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1708 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1616 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2114 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1971 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 4154 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2253 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3563 us
+Tempo Médio de Execução do ABS: 1890 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2171 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 2878 us
+Tempo de execução do ABS: 1245 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1730 us
+Tempo de execução do Airbag: 1327 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1548 us
+Tempo de execução do Airbag: 692 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1633 us
+Tempo de execução do Airbag: 650 us
+Tempo Médio de Execução do ABS: 1874 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2133 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3049 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 849 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1320 us
+Tempo de execução do ABS: 1492 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1008 us
+Tempo de execução do Airbag: 1537 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2580 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1943 us
+Sensor Airbag ativado!
+Tempo Médio de Execução do ABS: 1849 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2132 us
+WCET do Airbag: 4776 us
+WCRT do Airbag: 4820 us
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1583 us
+Tempo de execução do ABS: 870 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1880 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1762 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2131 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3406 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2809 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1902 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 2223 us
+Tempo de execução do ABS: 2154 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2827 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1900 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 6811 us
+Tempo Médio de Execução do ABS: 1858 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2190 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3097 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3530 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2168 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2916 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2739 us
+Tempo Médio de Execução do ABS: 1858 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2226 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3168 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2441 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2616 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2690 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2919 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Tempo de execução do ABS: 3690 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2388 us
+Tempo Médio de Execução do ABS: 1913 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2236 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1582 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3412 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 777 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Tempo de execução do ABS: 1375 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1578 us
+Tempo de execução do ABS: 1212 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 5143 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1172 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 451 us
+Sensor ABS ativado!
+Tempo Médio de Execução do ABS: 1891 us
+WCET do ABS: 3833 us
+WCRT do ABS: 3858 us
+Tempo Médio de Execução do Airbag: 2237 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo de execução do ABS: 2217 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3302 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1576 us
+Tempo de execução do Airbag: 1172 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1025 us
+Tempo de execução do Airbag: 2056 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2358 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 4161 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2375 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2922 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2464 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2806 us
+Tempo Médio de Execução do ABS: 1921 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2240 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2140 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 552 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1885 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2762 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2011 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1243 us
+Tempo de execução do Airbag: 1718 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1534 us
+Tempo de execução do Airbag: 1916 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2338 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1879 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 2841 us
+Tempo de execução do ABS: 2691 us
+Tempo Médio de Execução do ABS: 1914 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2233 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1211 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1339 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2323 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2872 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2553 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1948 us
+Tempo de execução do Airbag: 1346 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 2196 us
+Tempo de execução do Airbag: 5059 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 2523 us
+Tempo de execução do Airbag: 1181 us
+Tempo Médio de Execução do ABS: 1925 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2235 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3088 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2082 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1673 us
+Tempo de execução do ABS: 1811 us
+Tempo Médio de Execução do ABS: 1925 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2238 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1494 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2795 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2017 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2823 us
+Tempo Médio de Execução do ABS: 1925 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2239 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2299 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1905 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1832 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3510 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2098 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1733 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2049 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3361 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2299 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 439 us
+Tempo Médio de Execução do ABS: 1913 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2334 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1157 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 370 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1279 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1650 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1814 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2764 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3774 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2580 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2534 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2390 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2698 us
+Tempo Médio de Execução do ABS: 1930 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1562 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2177 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Tempo de execução do ABS: 2164 us
+Tempo Médio de Execução do ABS: 1931 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo Médio de Execução do ABS: 1931 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo Médio de Execução do ABS: 1931 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo Médio de Execução do ABS: 1931 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1794 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2287 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2488 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1274 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2546 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2130 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2273 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1596 us
+Tempo Médio de Execução do ABS: 1937 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1289 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1732 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 953 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3077 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2027 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2125 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2138 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3026 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1106 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1279 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1513 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Tempo de execução do ABS: 1411 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2122 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2173 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2956 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2914 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1802 us
+Tempo Médio de Execução do ABS: 1942 us
+WCET do ABS: 4161 us
+WCRT do ABS: 4195 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 4300 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1649 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2360 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3015 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2563 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2025 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1872 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2099 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3375 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2569 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2871 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2311 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2925 us
+Sensor ABS ativado!
+Tempo Médio de Execução do ABS: 1990 us
+WCET do ABS: 4300 us
+WCRT do ABS: 4337 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo de execução do ABS: 2983 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Tempo de execução do ABS: 2843 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3227 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2290 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2346 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2505 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3146 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2138 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1916 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3177 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1895 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 4047 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2314 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 4400 us
+Tempo Médio de Execução do ABS: 2049 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1570 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1110 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1866 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3291 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2372 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2756 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2933 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Tempo de execução do ABS: 2315 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2863 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2411 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2165 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2246 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1983 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1772 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1638 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2669 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1697 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2608 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2468 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2240 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2369 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2063 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2209 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2819 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2252 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1809 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2745 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3079 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3198 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1998 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1935 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3516 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1710 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1179 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3369 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2256 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1824 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1246 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2985 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 691 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2521 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2055 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 971 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2999 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3995 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2087 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2048 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2598 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2899 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1886 us
+Sensor Airbag ativado!
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2252 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Tempo de execução do Airbag: 2882 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3377 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3257 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2152 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2342 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2802 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2071 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2864 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2272 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1860 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1993 us
+Tempo Médio de Execução do ABS: 2064 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2270 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1843 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1830 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1646 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2272 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2408 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1496 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 756 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2157 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 2529 us
+Tempo de execução do ABS: 2027 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2668 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1970 us
+Tempo Médio de Execução do ABS: 2060 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2263 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2873 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1587 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 2023 us
+Tempo de execução do ABS: 3974 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2244 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2825 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1336 us
+Tempo de execução do ABS: 1804 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2210 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3076 us
+Tempo Médio de Execução do ABS: 2074 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2259 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2505 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2309 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1949 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 6116 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3510 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2937 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2603 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2437 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 1600 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1377 us
+Tempo de execução do Airbag: 1554 us
+Sensor Airbag ativado!
+Tempo Médio de Execução do ABS: 2078 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2280 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1481 us
+Tempo de execução do ABS: 1015 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3076 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1878 us
+Tempo de execução do ABS: 3005 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2968 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3566 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor ABS ativado!
+Tempo de execução do ABS: 3148 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2524 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 809 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2652 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1020 us
+Tempo de execução do ABS: 1169 us
+Tempo Médio de Execução do ABS: 2081 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2277 us
+WCET do Airbag: 6811 us
+WCRT do Airbag: 6849 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1457 us
+Tempo de execução do ABS: 1711 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 953 us
+Tempo de execução do ABS: 1112 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3694 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2080 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 4311 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2474 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2348 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 1615 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 3433 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2648 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 7434 us
+Tempo Médio de Execução do ABS: 2078 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2314 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Sensor ABS ativado!
+Sensor Airbag ativado!
+Tempo de execução do ABS: 1637 us
+Tempo de execução do Airbag: 2128 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 3864 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2275 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2805 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2864 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2064 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2097 us
+Sensor Airbag ativado!
+Sensor ABS ativado!
+Tempo de execução do Airbag: 1399 us
+Tempo de execução do ABS: 1274 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2453 us
+Tempo Médio de Execução do ABS: 2085 us
+WCET do ABS: 4400 us
+WCRT do ABS: 4435 us
+Tempo Médio de Execução do Airbag: 2310 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2608 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2138 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 4657 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 14997 us
+Sensor Airbag ativado!
+Tempo de execução do Airbag: 2914 us
+Sensor ABS ativado!
+Tempo de execução do ABS: 2887 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us
+Tempo Médio de Execução do ABS: 2143 us
+WCET do ABS: 14997 us
+WCRT do ABS: 15035 us
+Tempo Médio de Execução do Airbag: 2324 us
+WCET do Airbag: 7434 us
+WCRT do Airbag: 7471 us

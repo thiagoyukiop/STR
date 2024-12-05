@@ -1,0 +1,533 @@
+﻿0:Tempo Médio de Execução do ABS: 0 us
+0:WCET do ABS: 0 us
+0:WCRT do ABS: 0 us
+0:Tempo Médio de Execução do Airbag: 0 us
+0:WCET do Airbag: 0 us
+0:WCRT do Airbag: 0 us
+1:Tempo Médio de Execução do ABS: 0 us
+1:WCET do ABS: 0 us
+1:WCRT do ABS: 0 us
+1:Tempo Médio de Execução do Airbag: 0 us
+1:WCET do Airbag: 0 us
+1:WCRT do Airbag: 0 us
+1:Tempo de execução do Airbag: 1290 us
+1:Tempo de execução do ABS: 2095 us
+2:Tempo de execução do Airbag: 1137 us
+2:Tempo de execução do ABS: 2381 us
+3:Tempo de execução do Airbag: 1466 us
+3:Tempo de execução do ABS: 1815 us
+4:Tempo de execução do Airbag: 1175 us
+4:Tempo de execução do ABS: 2083 us
+2:Tempo Médio de Execução do ABS: 2093 us
+2:WCET do ABS: 2381 us
+2:WCRT do ABS: 2420 us
+2:Tempo Médio de Execução do Airbag: 1267 us
+2:WCET do Airbag: 1466 us
+2:WCRT do Airbag: 1499 us
+5:Tempo de execução do Airbag: 1572 us
+6:Tempo de execução do Airbag: 1797 us
+5:Tempo de execução do ABS: 1930 us
+7:Tempo de execução do Airbag: 1600 us
+6:Tempo de execução do ABS: 2575 us
+8:Tempo de execução do Airbag: 1453 us
+7:Tempo de execução do ABS: 2664 us
+9:Tempo de execução do Airbag: 1949 us
+3:Tempo Médio de Execução do ABS: 2220 us
+3:WCET do ABS: 2664 us
+3:WCRT do ABS: 2697 us
+3:Tempo Médio de Execução do Airbag: 1493 us
+3:WCET do Airbag: 1949 us
+3:WCRT do Airbag: 1980 us
+8:Tempo de execução do ABS: 1382 us
+10:Tempo de execução do Airbag: 1872 us
+9:Tempo de execução do ABS: 3637 us
+11:Tempo de execução do Airbag: 1515 us
+10:Tempo de execução do ABS: 2823 us
+4:Tempo Médio de Execução do ABS: 2338 us
+4:WCET do ABS: 3637 us
+4:WCRT do ABS: 3850 us
+4:Tempo Médio de Execução do Airbag: 1529 us
+4:WCET do Airbag: 1949 us
+4:WCRT do Airbag: 1980 us
+12:Tempo de execução do Airbag: 1937 us
+11:Tempo de execução do ABS: 2306 us
+13:Tempo de execução do Airbag: 1032 us
+12:Tempo de execução do ABS: 2351 us
+14:Tempo de execução do Airbag: 1851 us
+13:Tempo de execução do ABS: 1341 us
+15:Tempo de execução do Airbag: 1918 us
+14:Tempo de execução do ABS: 2576 us
+16:Tempo de execução do Airbag: 1962 us
+15:Tempo de execução do ABS: 2592 us
+5:Tempo Médio de Execução do ABS: 2303 us
+5:WCET do ABS: 3637 us
+5:WCRT do ABS: 3850 us
+5:Tempo Médio de Execução do Airbag: 1595 us
+5:WCET do Airbag: 1962 us
+5:WCRT do Airbag: 2024 us
+17:Tempo de execução do Airbag: 1508 us
+16:Tempo de execução do ABS: 2910 us
+18:Tempo de execução do Airbag: 1306 us
+17:Tempo de execução do ABS: 1163 us
+6:Tempo Médio de Execução do ABS: 2272 us
+6:WCET do ABS: 3637 us
+6:WCRT do ABS: 3850 us
+6:Tempo Médio de Execução do Airbag: 1574 us
+6:WCET do Airbag: 1962 us
+6:WCRT do Airbag: 2024 us
+19:Tempo de execução do Airbag: 2077 us
+18:Tempo de execução do ABS: 3301 us
+20:Tempo de execução do Airbag: 2748 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+19:Tempo de execução do ABS: 2714 us
+21:Tempo de execução do Airbag: 1930 us
+20:Tempo de execução do ABS: 2187 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+22:Tempo de execução do Airbag: 1957 us
+7:Tempo Médio de Execução do ABS: 2341 us
+7:WCET do ABS: 3637 us
+7:WCRT do ABS: 3850 us
+7:Tempo Médio de Execução do Airbag: 1684 us
+7:WCET do Airbag: 2748 us
+7:WCRT do Airbag: 2780 us
+21:Tempo de execução do ABS: 3942 us
+23:Tempo de execução do Airbag: 1965 us
+22:Tempo de execução do ABS: 2284 us
+24:Tempo de execução do Airbag: 2744 us
+25:Tempo de execução do Airbag: 1219 us
+23:Tempo de execução do ABS: 2185 us
+8:Tempo Médio de Execução do ABS: 2401 us
+8:WCET do ABS: 3942 us
+8:WCRT do ABS: 3970 us
+8:Tempo Médio de Execução do Airbag: 1719 us
+8:WCET do Airbag: 2748 us
+8:WCRT do Airbag: 2780 us
+26:Tempo de execução do Airbag: 1955 us
+24:Tempo de execução do ABS: 2132 us
+27:Tempo de execução do Airbag: 1522 us
+25:Tempo de execução do ABS: 1564 us
+28:Tempo de execução do Airbag: 1852 us
+9:Tempo Médio de Execução do ABS: 2357 us
+9:WCET do ABS: 3942 us
+9:WCRT do ABS: 3970 us
+9:Tempo Médio de Execução do Airbag: 1725 us
+9:WCET do Airbag: 2748 us
+9:WCRT do Airbag: 2780 us
+26:Tempo de execução do ABS: 2374 us
+29:Tempo de execução do Airbag: 2271 us
+27:Tempo de execução do ABS: 2671 us
+30:Tempo de execução do Airbag: 2019 us
+28:Tempo de execução do ABS: 2859 us
+31:Tempo de execução do Airbag: 1890 us
+29:Tempo de execução do ABS: 1758 us
+10:Tempo Médio de Execução do ABS: 2365 us
+10:WCET do ABS: 3942 us
+10:WCRT do ABS: 3970 us
+10:Tempo Médio de Execução do Airbag: 1757 us
+10:WCET do Airbag: 2748 us
+10:WCRT do Airbag: 2780 us
+30:Tempo de execução do ABS: 2887 us
+32:Tempo de execução do Airbag: 317 us
+31:Tempo de execução do ABS: 1827 us
+33:Tempo de execução do Airbag: 1911 us
+32:Tempo de execução do ABS: 2493 us
+34:Tempo de execução do Airbag: 1922 us
+33:Tempo de execução do ABS: 2949 us
+35:Tempo de execução do Airbag: 2281 us
+34:Tempo de execução do ABS: 2678 us
+36:Tempo de execução do Airbag: 2681 us
+11:Tempo Médio de Execução do ABS: 2394 us
+11:WCET do ABS: 3942 us
+11:WCRT do ABS: 3970 us
+11:Tempo Médio de Execução do Airbag: 1766 us
+11:WCET do Airbag: 2748 us
+11:WCRT do Airbag: 2780 us
+35:Tempo de execução do ABS: 1684 us
+37:Tempo de execução do Airbag: 1128 us
+36:Tempo de execução do ABS: 1477 us
+38:Tempo de execução do Airbag: 1059 us
+39:Tempo de execução do Airbag: 1549 us
+37:Tempo de execução do ABS: 2167 us
+40:Tempo de execução do Airbag: 658 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+38:Tempo de execução do ABS: 1808 us
+41:Tempo de execução do Airbag: 910 us
+39:Tempo de execução do ABS: 1298 us
+42:Tempo de execução do Airbag: 2817 us
+40:Tempo de execução do ABS: 2921 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+43:Tempo de execução do Airbag: 2257 us
+41:Tempo de execução do ABS: 2276 us
+44:Tempo de execução do Airbag: 2695 us
+12:Tempo Médio de Execução do ABS: 2318 us
+12:WCET do ABS: 3942 us
+12:WCRT do ABS: 3970 us
+12:Tempo Médio de Execução do Airbag: 1742 us
+12:WCET do Airbag: 2817 us
+12:WCRT do Airbag: 2849 us
+42:Tempo de execução do ABS: 2534 us
+45:Tempo de execução do Airbag: 2485 us
+46:Tempo de execução do Airbag: 1409 us
+43:Tempo de execução do ABS: 1077 us
+47:Tempo de execução do Airbag: 3247 us
+44:Tempo de execução do ABS: 2625 us
+48:Tempo de execução do Airbag: 1698 us
+49:Tempo de execução do Airbag: 922 us
+45:Tempo de execução do ABS: 1350 us
+50:Tempo de execução do Airbag: 1771 us
+13:Tempo Médio de Execução do ABS: 2281 us
+13:WCET do ABS: 3942 us
+13:WCRT do ABS: 3970 us
+13:Tempo Médio de Execução do Airbag: 1764 us
+13:WCET do Airbag: 3247 us
+13:WCRT do Airbag: 3278 us
+14:Tempo Médio de Execução do ABS: 2281 us
+14:WCET do ABS: 3942 us
+14:WCRT do ABS: 3970 us
+14:Tempo Médio de Execução do Airbag: 1764 us
+14:WCET do Airbag: 3247 us
+14:WCRT do Airbag: 3278 us
+46:Tempo de execução do ABS: 1228 us
+51:Tempo de execução do Airbag: 1205 us
+47:Tempo de execução do ABS: 1383 us
+52:Tempo de execução do Airbag: 1267 us
+48:Tempo de execução do ABS: 1235 us
+53:Tempo de execução do Airbag: 916 us
+49:Tempo de execução do ABS: 1380 us
+54:Tempo de execução do Airbag: 1763 us
+50:Tempo de execução do ABS: 1389 us
+55:Tempo de execução do Airbag: 2158 us
+56:Tempo de execução do Airbag: 1488 us
+51:Tempo de execução do ABS: 971 us
+15:Tempo Médio de Execução do ABS: 2161 us
+15:WCET do ABS: 3942 us
+15:WCRT do ABS: 3970 us
+15:Tempo Médio de Execução do Airbag: 1732 us
+15:WCET do Airbag: 3247 us
+15:WCRT do Airbag: 3278 us
+57:Tempo de execução do Airbag: 965 us
+52:Tempo de execução do ABS: 1246 us
+58:Tempo de execução do Airbag: 2206 us
+53:Tempo de execução do ABS: 2125 us
+59:Tempo de execução do Airbag: 1164 us
+54:Tempo de execução do ABS: 1172 us
+60:Tempo de execução do Airbag: 1632 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+55:Tempo de execução do ABS: 1279 us
+16:Tempo Médio de Execução do ABS: 2110 us
+16:WCET do ABS: 3942 us
+16:WCRT do ABS: 3970 us
+16:Tempo Médio de Execução do Airbag: 1716 us
+16:WCET do Airbag: 3247 us
+16:WCRT do Airbag: 3278 us
+56:Tempo de execução do ABS: 1641 us
+61:Tempo de execução do Airbag: 2302 us
+57:Tempo de execução do ABS: 1536 us
+62:Tempo de execução do Airbag: 1209 us
+58:Tempo de execução do ABS: 1545 us
+63:Tempo de execução do Airbag: 1464 us
+64:Tempo de execução do Airbag: 2419 us
+59:Tempo de execução do ABS: 1833 us
+65:Tempo de execução do Airbag: 2517 us
+17:Tempo Médio de Execução do ABS: 2078 us
+17:WCET do ABS: 3942 us
+17:WCRT do ABS: 3970 us
+17:Tempo Médio de Execução do Airbag: 1736 us
+17:WCET do Airbag: 3247 us
+17:WCRT do Airbag: 3278 us
+60:Tempo de execução do ABS: 1793 us
+Fator Skip do ABS: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+66:Tempo de execução do Airbag: 3569 us
+18:Tempo Médio de Execução do ABS: 2073 us
+18:WCET do ABS: 3942 us
+18:WCRT do ABS: 3970 us
+18:Tempo Médio de Execução do Airbag: 1764 us
+18:WCET do Airbag: 3569 us
+18:WCRT do Airbag: 3601 us
+19:Tempo Médio de Execução do ABS: 2073 us
+19:WCET do ABS: 3942 us
+19:WCRT do ABS: 3970 us
+19:Tempo Médio de Execução do Airbag: 1764 us
+19:WCET do Airbag: 3569 us
+19:WCRT do Airbag: 3601 us
+20:Tempo Médio de Execução do ABS: 2073 us
+20:WCET do ABS: 3942 us
+20:WCRT do ABS: 3970 us
+20:Tempo Médio de Execução do Airbag: 1764 us
+20:WCET do Airbag: 3569 us
+20:WCRT do Airbag: 3601 us
+21:Tempo Médio de Execução do ABS: 2073 us
+21:WCET do ABS: 3942 us
+21:WCRT do ABS: 3970 us
+21:Tempo Médio de Execução do Airbag: 1764 us
+21:WCET do Airbag: 3569 us
+21:WCRT do Airbag: 3601 us
+22:Tempo Médio de Execução do ABS: 2073 us
+22:WCET do ABS: 3942 us
+22:WCRT do ABS: 3970 us
+22:Tempo Médio de Execução do Airbag: 1764 us
+22:WCET do Airbag: 3569 us
+22:WCRT do Airbag: 3601 us
+23:Tempo Médio de Execução do ABS: 2073 us
+23:WCET do ABS: 3942 us
+23:WCRT do ABS: 3970 us
+23:Tempo Médio de Execução do Airbag: 1764 us
+23:WCET do Airbag: 3569 us
+23:WCRT do Airbag: 3601 us
+24:Tempo Médio de Execução do ABS: 2073 us
+24:WCET do ABS: 3942 us
+24:WCRT do ABS: 3970 us
+24:Tempo Médio de Execução do Airbag: 1764 us
+24:WCET do Airbag: 3569 us
+24:WCRT do Airbag: 3601 us
+25:Tempo Médio de Execução do ABS: 2073 us
+25:WCET do ABS: 3942 us
+25:WCRT do ABS: 3970 us
+25:Tempo Médio de Execução do Airbag: 1764 us
+25:WCET do Airbag: 3569 us
+25:WCRT do Airbag: 3601 us
+26:Tempo Médio de Execução do ABS: 2073 us
+26:WCET do ABS: 3942 us
+26:WCRT do ABS: 3970 us
+26:Tempo Médio de Execução do Airbag: 1764 us
+26:WCET do Airbag: 3569 us
+26:WCRT do Airbag: 3601 us
+27:Tempo Médio de Execução do ABS: 2073 us
+27:WCET do ABS: 3942 us
+27:WCRT do ABS: 3970 us
+27:Tempo Médio de Execução do Airbag: 1764 us
+27:WCET do Airbag: 3569 us
+27:WCRT do Airbag: 3601 us
+28:Tempo Médio de Execução do ABS: 2073 us
+28:WCET do ABS: 3942 us
+28:WCRT do ABS: 3970 us
+28:Tempo Médio de Execução do Airbag: 1764 us
+28:WCET do Airbag: 3569 us
+28:WCRT do Airbag: 3601 us
+29:Tempo Médio de Execução do ABS: 2073 us
+29:WCET do ABS: 3942 us
+29:WCRT do ABS: 3970 us
+29:Tempo Médio de Execução do Airbag: 1764 us
+29:WCET do Airbag: 3569 us
+29:WCRT do Airbag: 3601 us
+30:Tempo Médio de Execução do ABS: 2073 us
+30:WCET do ABS: 3942 us
+30:WCRT do ABS: 3970 us
+30:Tempo Médio de Execução do Airbag: 1764 us
+30:WCET do Airbag: 3569 us
+30:WCRT do Airbag: 3601 us
+31:Tempo Médio de Execução do ABS: 2073 us
+31:WCET do ABS: 3942 us
+31:WCRT do ABS: 3970 us
+31:Tempo Médio de Execução do Airbag: 1764 us
+31:WCET do Airbag: 3569 us
+31:WCRT do Airbag: 3601 us
+32:Tempo Médio de Execução do ABS: 2073 us
+32:WCET do ABS: 3942 us
+32:WCRT do ABS: 3970 us
+32:Tempo Médio de Execução do Airbag: 1764 us
+32:WCET do Airbag: 3569 us
+32:WCRT do Airbag: 3601 us
+33:Tempo Médio de Execução do ABS: 2073 us
+33:WCET do ABS: 3942 us
+33:WCRT do ABS: 3970 us
+33:Tempo Médio de Execução do Airbag: 1764 us
+33:WCET do Airbag: 3569 us
+33:WCRT do Airbag: 3601 us
+34:Tempo Médio de Execução do ABS: 2073 us
+34:WCET do ABS: 3942 us
+34:WCRT do ABS: 3970 us
+34:Tempo Médio de Execução do Airbag: 1764 us
+34:WCET do Airbag: 3569 us
+34:WCRT do Airbag: 3601 us
+35:Tempo Médio de Execução do ABS: 2073 us
+35:WCET do ABS: 3942 us
+35:WCRT do ABS: 3970 us
+35:Tempo Médio de Execução do Airbag: 1764 us
+35:WCET do Airbag: 3569 us
+35:WCRT do Airbag: 3601 us
+36:Tempo Médio de Execução do ABS: 2073 us
+36:WCET do ABS: 3942 us
+36:WCRT do ABS: 3970 us
+36:Tempo Médio de Execução do Airbag: 1764 us
+36:WCET do Airbag: 3569 us
+36:WCRT do Airbag: 3601 us
+37:Tempo Médio de Execução do ABS: 2073 us
+37:WCET do ABS: 3942 us
+37:WCRT do ABS: 3970 us
+37:Tempo Médio de Execução do Airbag: 1764 us
+37:WCET do Airbag: 3569 us
+37:WCRT do Airbag: 3601 us
+38:Tempo Médio de Execução do ABS: 2073 us
+38:WCET do ABS: 3942 us
+38:WCRT do ABS: 3970 us
+38:Tempo Médio de Execução do Airbag: 1764 us
+38:WCET do Airbag: 3569 us
+38:WCRT do Airbag: 3601 us
+39:Tempo Médio de Execução do ABS: 2073 us
+39:WCET do ABS: 3942 us
+39:WCRT do ABS: 3970 us
+39:Tempo Médio de Execução do Airbag: 1764 us
+39:WCET do Airbag: 3569 us
+39:WCRT do Airbag: 3601 us
+40:Tempo Médio de Execução do ABS: 2073 us
+40:WCET do ABS: 3942 us
+40:WCRT do ABS: 3970 us
+40:Tempo Médio de Execução do Airbag: 1764 us
+40:WCET do Airbag: 3569 us
+40:WCRT do Airbag: 3601 us
+41:Tempo Médio de Execução do ABS: 2073 us
+41:WCET do ABS: 3942 us
+41:WCRT do ABS: 3970 us
+41:Tempo Médio de Execução do Airbag: 1764 us
+41:WCET do Airbag: 3569 us
+41:WCRT do Airbag: 3601 us
+42:Tempo Médio de Execução do ABS: 2073 us
+42:WCET do ABS: 3942 us
+42:WCRT do ABS: 3970 us
+42:Tempo Médio de Execução do Airbag: 1764 us
+42:WCET do Airbag: 3569 us
+42:WCRT do Airbag: 3601 us
+43:Tempo Médio de Execução do ABS: 2073 us
+43:WCET do ABS: 3942 us
+43:WCRT do ABS: 3970 us
+43:Tempo Médio de Execução do Airbag: 1764 us
+43:WCET do Airbag: 3569 us
+43:WCRT do Airbag: 3601 us
+67:Tempo de execução do Airbag: 2094 us
+61:Tempo de execução do ABS: 3134 us
+68:Tempo de execução do Airbag: 2141 us
+44:Tempo Médio de Execução do ABS: 2090 us
+44:WCET do ABS: 3942 us
+44:WCRT do ABS: 3970 us
+44:Tempo Médio de Execução do Airbag: 1774 us
+44:WCET do Airbag: 3569 us
+44:WCRT do Airbag: 3601 us
+62:Tempo de execução do ABS: 8280 us
+69:Tempo de execução do Airbag: 1722 us
+63:Tempo de execução do ABS: 1998 us
+70:Tempo de execução do Airbag: 2569 us
+64:Tempo de execução do ABS: 1110 us
+45:Tempo Médio de Execução do ABS: 2170 us
+45:WCET do ABS: 8280 us
+45:WCRT do ABS: 8327 us
+45:Tempo Médio de Execução do Airbag: 1785 us
+45:WCET do Airbag: 3569 us
+45:WCRT do Airbag: 3601 us
+46:Tempo Médio de Execução do ABS: 2170 us
+46:WCET do ABS: 8280 us
+46:WCRT do ABS: 8327 us
+46:Tempo Médio de Execução do Airbag: 1785 us
+46:WCET do Airbag: 3569 us
+46:WCRT do Airbag: 3601 us
+47:Tempo Médio de Execução do ABS: 2170 us
+47:WCET do ABS: 8280 us
+47:WCRT do ABS: 8327 us
+47:Tempo Médio de Execução do Airbag: 1785 us
+47:WCET do Airbag: 3569 us
+47:WCRT do Airbag: 3601 us
+71:Tempo de execução do Airbag: 1317 us
+65:Tempo de execução do ABS: 761 us
+72:Tempo de execução do Airbag: 1431 us
+66:Tempo de execução do ABS: 911 us
+73:Tempo de execução do Airbag: 1008 us
+67:Tempo de execução do ABS: 2503 us
+74:Tempo de execução do Airbag: 2806 us
+68:Tempo de execução do ABS: 1452 us
+75:Tempo de execução do Airbag: 1855 us
+76:Tempo de execução do Airbag: 4270 us
+69:Tempo de execução do ABS: 3998 us
+77:Tempo de execução do Airbag: 2740 us
+48:Tempo Médio de Execução do ABS: 2152 us
+48:WCET do ABS: 8280 us
+48:WCRT do ABS: 8327 us
+48:Tempo Médio de Execução do Airbag: 1823 us
+48:WCET do Airbag: 4270 us
+48:WCRT do Airbag: 4327 us
+49:Tempo Médio de Execução do ABS: 2152 us
+49:WCET do ABS: 8280 us
+49:WCRT do ABS: 8327 us
+49:Tempo Médio de Execução do Airbag: 1823 us
+49:WCET do Airbag: 4270 us
+49:WCRT do Airbag: 4327 us
+50:Tempo Médio de Execução do ABS: 2152 us
+50:WCET do ABS: 8280 us
+50:WCRT do ABS: 8327 us
+50:Tempo Médio de Execução do Airbag: 1823 us
+50:WCET do Airbag: 4270 us
+50:WCRT do Airbag: 4327 us
+51:Tempo Médio de Execução do ABS: 2152 us
+51:WCET do ABS: 8280 us
+51:WCRT do ABS: 8327 us
+51:Tempo Médio de Execução do Airbag: 1823 us
+51:WCET do Airbag: 4270 us
+51:WCRT do Airbag: 4327 us
+70:Tempo de execução do ABS: 1199 us
+78:Tempo de execução do Airbag: 5346 us
+52:Tempo Médio de Execução do ABS: 2139 us
+52:WCET do ABS: 8280 us
+52:WCRT do ABS: 8327 us
+52:Tempo Médio de Execução do Airbag: 1868 us
+52:WCET do Airbag: 5346 us
+52:WCRT do Airbag: 5388 us
+53:Tempo Médio de Execução do ABS: 2139 us
+53:WCET do ABS: 8280 us
+53:WCRT do ABS: 8327 us
+53:Tempo Médio de Execução do Airbag: 1868 us
+53:WCET do Airbag: 5346 us
+53:WCRT do Airbag: 5388 us
+71:Tempo de execução do ABS: 660 us
+79:Tempo de execução do Airbag: 2854 us
+72:Tempo de execução do ABS: 911 us
+80:Tempo de execução do Airbag: 1207 us
+Fator Skip do Airbag: 0.00
+Primeiros 10 valores, dentro do limite
+Últimos 10 valores, dentro do limite
+54:Tempo Médio de Execução do ABS: 2101 us
+54:WCET do ABS: 8280 us
+54:WCRT do ABS: 8327 us
+54:Tempo Médio de Execução do Airbag: 1872 us
+54:WCET do Airbag: 5346 us
+54:WCRT do Airbag: 5388 us
+55:Tempo Médio de Execução do ABS: 2101 us
+55:WCET do ABS: 8280 us
+55:WCRT do ABS: 8327 us
+55:Tempo Médio de Execução do Airbag: 1872 us
+55:WCET do Airbag: 5346 us
+55:WCRT do Airbag: 5388 us
+56:Tempo Médio de Execução do ABS: 2101 us
+56:WCET do ABS: 8280 us
+56:WCRT do ABS: 8327 us
+56:Tempo Médio de Execução do Airbag: 1872 us
+56:WCET do Airbag: 5346 us
+56:WCRT do Airbag: 5388 us
+57:Tempo Médio de Execução do ABS: 2101 us
+57:WCET do ABS: 8280 us
+57:WCRT do ABS: 8327 us
+57:Tempo Médio de Execução do Airbag: 1872 us
+57:WCET do Airbag: 5346 us
+57:WCRT do Airbag: 5388 us
+58:Tempo Médio de Execução do ABS: 2101 us
+58:WCET do ABS: 8280 us
+58:WCRT do ABS: 8327 us
+58:Tempo Médio de Execução do Airbag: 1872 us
+58:WCET do Airbag: 5346 us
+58:WCRT do Airbag: 5388 us
+59:Tempo Médio de Execução do ABS: 2101 us
+59:WCET do ABS: 8280 us
+59:WCRT do ABS: 8327 us
+59:Tempo Médio de Execução do Airbag: 1872 us
+59:WCET do Airbag: 5346 us
+59:WCRT do Airbag: 5388 us
